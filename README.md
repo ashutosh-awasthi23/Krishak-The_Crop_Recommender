@@ -12,6 +12,22 @@ This is a **Flask-based web application** that recommends the best crop for cult
 ✅ Uses **Random Forest Classifier** for crop prediction.\
 ✅ Displays **best-suited crop recommendation** for the given inputs.
 
+### 🖥️ Home Page
+![Home Page](images/Home3.png)
+
+![Features](images/Home2.png)
+
+
+![UserInput](images/UserInput.png)
+
+
+
+
+### 📊 Prediction Result
+![Prediction Result](images/PredictedCrop.png)
+
+
+
 ## 🛠️ Tech Stack
 
 - **Python** (Flask, NumPy, Pandas, Pickle)
