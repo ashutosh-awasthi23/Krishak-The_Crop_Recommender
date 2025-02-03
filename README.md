@@ -35,22 +35,6 @@ This is a **Flask-based web application** that recommends the best crop for cult
 - **OpenWeatherMap API** (Weather Data)
 - **HTML, CSS, Bootstrap** (Frontend)
 
-## 📥 Installation & Setup
-
-Follow these steps to run the project locally:
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-repo/crop-recommendation.git
-cd crop-recommendation
-```
-
-### 2️⃣ Install Required Packages
-
-```bash
-pip install -r requirements.txt
-```
 
 ### 3️⃣ Add OpenWeatherMap API Key
 
