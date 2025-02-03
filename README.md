@@ -13,18 +13,18 @@ This is a **Flask-based web application** that recommends the best crop for cult
 ✅ Displays **best-suited crop recommendation** for the given inputs.
 
 ### 🖥️ Home Page
-![Home Page](images/Home3.png)
+![Home Page](Images/Home3.png)
 
-![Features](images/Home2.png)
+![Features](Images/Home2.png)
 
 
-![UserInput](images/UserInput.png)
+![UserInput](Images/UserInput.png)
 
 
 
 
 ### 📊 Prediction Result
-![Prediction Result](images/PredictedCrop.png)
+![Prediction Result](Images/PredictedCrop.png)
 
 
 
